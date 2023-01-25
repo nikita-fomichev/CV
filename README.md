@@ -1,1 +1,1 @@
-[resume](https://nikita-fomichev.github.io/CV/)
+[RESUME](https://nikita-fomichev.github.io/CV/)
